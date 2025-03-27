@@ -51,15 +51,10 @@ git clone https://github.com/Laxman2546/wasteyai.git
 cd wasteyai
 
 . Install dependencies:
-bash
-Copy
-Edit
-pip install -r requirements.txt
+npm i
+npm install tailwindcss @tailwindcss/vite
+npm i react-toastify
 3. Run the application:
-bash
-Copy
-Edit
-python app.py
 🛠️ Contributing:
 If you'd like to contribute, feel free to fork this repository and submit a pull request. Here's how to contribute:
 
